@@ -114,18 +114,6 @@ Excel used for structured tabular verification and formatting.
 <!-- 📂 PROJECT STRUCTURE -->
 <!-- ============================= -->
 
-## 📂 Repository Structure
-
-```
-COVID-19-India-UT-Analysis/
-│
-├── README.md
-├── covid.pbix
-├── dashboard.png
-├── dataset_files/
-└── analysis_scripts/
-```
-
 ---
 
 <!-- ============================= -->
