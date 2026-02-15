@@ -42,7 +42,7 @@ This project demonstrates strong hands-on experience in Data Analytics, Data Eng
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" width="900"/>
+  <img src="COVID.PY.png" width="900"/>
 </p>
 
 ---
