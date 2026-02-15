@@ -1,89 +1,166 @@
+<!-- ============================= -->
+<!-- 🚀 ANIMATED MAIN TITLE -->
+<!-- ============================= -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=COVID-19+ANALYSIS+IN+INDIA+-+UNION+TERRITORY" />
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=COVID-19+ANALYSIS+IN+INDIA+-+UNION+TERRITORY;Advanced+Data+Analytics+Project;SQL+%7C+Python+%7C+Power+BI+%7C+AI" />
+  Advanced Data Analytics Project | End-to-End Data Pipeline | Executive Dashboard
 </p>
 
 ---
 
-# 🚀 COVID-19 Analysis in India – Union Territory  
-### 🔥 Advanced Data Analytics Project  
+<!-- ============================= -->
+<!-- 🧠 PROJECT OVERVIEW -->
+<!-- ============================= -->
+
+## 🚀 Project Overview
+
+This project presents a comprehensive analytical study of COVID-19 cases across Indian Union Territories using a complete modern data analytics workflow.
+
+The objective of this project was to build a structured, production-style data pipeline:
+
+- AI-assisted data collection  
+- SQL-based data cleaning and normalization  
+- Data analysis using NumPy and Pandas  
+- Statistical computation of trends and case fatality rate  
+- Data storage using MongoDB  
+- Executive dashboard creation using Power BI  
+- Visualization using Matplotlib  
+- Data validation using Excel  
+
+This project demonstrates strong hands-on experience in Data Analytics, Data Engineering fundamentals, and Business Intelligence reporting.
 
 ---
 
-## 🧠 Project Overview
+<!-- ============================= -->
+<!-- 📊 DASHBOARD PREVIEW -->
+<!-- ============================= -->
 
-This project provides a deep analytical study of COVID-19 cases across Indian Union Territories using modern data analytics tools.
-
-The goal is to:
-- Analyze confirmed, recovered & death cases  
-- Identify trends and patterns  
-- Compare UT performance  
-- Create interactive visual dashboards  
-
----
-
-## ⚙️ Tech Stack Used
-
-### 🤖 AI Tools  
-- Used AI to collect and structure COVID-19 datasets  
-
-### 🛢 SQL  
-- Data Cleaning  
-- Removing Nulls  
-- Data Filtering  
-- Aggregation Queries  
-
-### 🐍 Python Analysis  
-- NumPy → Numerical Analysis  
-- Pandas → Data Manipulation  
-- Advanced EDA  
-
-### 📊 Visualization  
-- Matplotlib → Data Visualization  
-- Power BI → Interactive Dashboard  
-- Excel → Basic Data Formatting & Validation  
-
-### 🗄 Database  
-- MongoDB → Data Storage  
-
----
-
-## 🛠 Tools & Technologies
+## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,pandas,numpy,excel" />
+  <img src="dashboard.png" width="900"/>
 </p>
 
 ---
+
+<!-- ============================= -->
+<!-- 🛠 TOOLS & TECHNOLOGIES -->
+<!-- ============================= -->
+
+## 🛠 Tools & Technologies Used
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb" />
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+  <img src="https://img.icons8.com/color/48/chatgpt.png"/>
+</p>
+
+---
+
+<!-- ============================= -->
+<!-- 🔍 TECHNICAL IMPLEMENTATION -->
+<!-- ============================= -->
+
+## 🔍 Technical Implementation
+
+### 🔹 Data Collection
+AI-assisted structured data gathering from public pandemic datasets.
+
+### 🔹 Data Cleaning (SQL)
+- Removed null values  
+- Standardized district names  
+- Normalized case structure  
+- Prepared analytical tables  
+
+### 🔹 Data Analysis (Python)
+Using NumPy and Pandas:
+- Aggregation of confirmed, recovered, deaths  
+- Case Fatality Rate (%) calculation  
+- Trend identification  
+- District-level comparison  
+
+### 🔹 Data Storage
+MongoDB used to store processed analytical results for flexible retrieval.
+
+### 🔹 Visualization
+- Matplotlib for analytical plots  
+- Power BI for executive-level interactive dashboard  
+
+### 🔹 Data Validation
+Excel used for structured tabular verification and formatting.
+
+---
+
+<!-- ============================= -->
+<!-- 📈 KEY INSIGHTS -->
+<!-- ============================= -->
 
 ## 📈 Key Insights
 
-- UT-wise case comparison  
-- Recovery Rate Analysis  
-- Death Ratio Study  
-- Trend Analysis Over Time  
-- Data-Driven Decision Insights  
+- Puducherry recorded the highest death count among UT districts.
+- Recovery rate exceeded 49%, indicating strong recovery performance.
+- Active cases significantly lower compared to total confirmed cases.
+- Case Fatality Rate approximately 8%.
+- Geographic mapping highlights concentrated outbreak regions.
 
 ---
 
-## 🎯 Outcome
+<!-- ============================= -->
+<!-- 📂 PROJECT STRUCTURE -->
+<!-- ============================= -->
 
-This project demonstrates:
+## 📂 Repository Structure
 
-✔ Data Cleaning Skills  
-✔ SQL Query Writing  
-✔ Python Analytical Skills  
-✔ Dashboard Building in Power BI  
-✔ Data Visualization Techniques  
-✔ Database Handling (MongoDB)  
-✔ AI Assisted Data Collection  
+```
+COVID-19-India-UT-Analysis/
+│
+├── README.md
+├── covid.pbix
+├── dashboard.png
+├── dataset_files/
+└── analysis_scripts/
+```
 
 ---
+
+<!-- ============================= -->
+<!-- 🎯 PROJECT HIGHLIGHTS -->
+<!-- ============================= -->
+
+## 🎯 Project Highlights
+
+- End-to-End Data Analytics Pipeline  
+- Multi-tool Integration  
+- Real-world Pandemic Dataset  
+- Business Intelligence Dashboard  
+- Clean Executive Presentation  
+- Production-ready Portfolio Project  
+
+---
+
+<!-- ============================= -->
+<!-- 💼 AUTHOR SECTION -->
+<!-- ============================= -->
 
 ## 👨‍💻 Author
 
 **Gokul Raj**  
 GitHub: https://github.com/gokul2005083-source  
 
+Data Analytics | SQL | Python | Power BI | MongoDB  
+
 ---
 
-⭐ If you like this project, give it a star!
+<!-- ============================= -->
+<!-- 👁 VISITOR BADGE -->
+<!-- ============================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gokul2005083-source&color=blue&style=flat-square"/>
+</p>
+
